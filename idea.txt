@@ -1,0 +1,69 @@
+Company Summary / Profi le
+Company Name: Niaje Tech Industry: Information Technology & Digital Solutions Headquarters: Nairobi, Kenya Website: www.niajetech.com Business Model: B2B Digital Solutions Provider Core Services:
+● Custom Software & System Development
+● Website & Mobile Application Development
+● Property & Business Management Systems
+● IT Support & Maintenance
+● Cloud & Hosting Solutions
+● AI-Integrated Workfl ows & Automation
+● Data Analytics & System Integration
+Niaje Tech offers innovative, tailored digital solutions to businesses across key sectors such as real estate, agriculture, hospitality, healthcare, education, and fi ntech. With a strong foundation in emerging technologies, we help organizations improve effi ciency, reduce costs, and scale through powerful digital tools.
+About Us
+Niaje Tech is a forward-thinking technology company dedicated to building smart, reliable, and scalable digital solutions. We specialize in developing custom software systems and integrated platforms that solve real business problems and optimize operations.
+Our portfolio spans multiple sectors, from property management systems and e-commerce solutions to ERP platforms and AI-driven tools. We take a strategic and hands-on approach to every project — ensuring each solution we deliver is user-friendly, secure, and aligned with client goals.
+With a commitment to quality, innovation, and collaboration, Niaje Tech continues to drive digital transformation in Africa and beyond.
+Contact Information
+● Email: techniaje@gmail.com
+● Phone: +254 748 388 173 / Location: Nairobi, Kenya
+
+🧠 Our Projects Portfolio
+At Tech Niaje, we don’t just build software — we build meaningful, functional, and transformative digital solutions. Here’s a look at some of the projects we’ve proudly developed for clients across different industries.
+🔹 GTC Website – www.gtc.co.ke
+Client: Avic International Real Estate Sector: Real Estate, Mixed-use Development Overview: A premium corporate website for GTC Nairobi – Kenya’s fi rst HOPSCA development. We implemented a responsive layout, bilingual content, and an intuitive property browsing experience to support marketing and global visibility.
+🔹 PowerPro – www.powerpro.app
+Client: PowerPro Sector: Fitness, Sports Tech Overview: PowerPro revolutionizes powerlifting for self-driven athletes. This elite platform allows users to import or discover training programs, track progress with precision, and engage with a like-minded community. We developed a sleek, user-friendly interface with robust backend architecture tailored to fi tness enthusiasts. The system simplifi es training so users can focus on what matters — lifting.
+🔹 Teamhouse – www.teamhouse.co
+Client: Teamhouse Sector: AI, SaaS, Productivity Overview: Teamhouse empowers organizations to seamlessly integrate AI assistants with internal teams within a unifi ed workspace. The platform enables teams to triage work, manage support requests, automate workfl ows, update internal records, and generate reports — all with fewer tools and reduced costs. We collaborated on a functional and scalable system that prioritizes effi ciency, automation, and intuitive user experience.
+Key Features Delivered:
+● AI assistant integration with internal workfl ows
+● Unifi ed workspace for task and support management
+● Process automation tools
+● Dynamic reporting and record updates
+● Scalable, modern web architecture
+🔹 Soffabulous – www.soffabulaus.co.ke
+Client: Soffabulous Beauty Sector: Beauty, E-commerce Overview: A full-featured e-commerce site offering beauty products and vendor support. Includes cart integration, vendor backend access, and performance-based SEO optimization.
+🔹 Steadfast Academy – www.steadfastacademy.co.ke
+Client: Steadfast Christian Academy Sector: Education Overview: A modern, informative school website with sections for programs, admissions, and news. Optimized for parents and guardians seeking academic excellence in a faith-based environment.
+🔹 Empower Rising Resilience – www.empowerisingresilience.org
+Client: Empower Rising Resilience (ERR) Sector: Non-Profi t, Community Development Overview: A vibrant website highlighting community-based programs, youth empowerment, and charity projects. Includes blog, donation integration, and volunteer application modules.
+🔹 Hyperwave – www.hyperwave.co.ke
+Client: Hyperwave Technologies Sector: Tech, Innovation Overview: Portfolio and landing page for a digital innovation fi rm. Features interactive visuals, project case studies, and service-based navigation.
+🔹 My Great Nairobi – www.mygreatnairobi.co.ke
+Client: GTC (Sub-project) Sector: Urban Culture, Real Estate Overview: A campaign microsite for the GTC Photogallery Experience. Integrated blog, booking system, and high-performance layout to support content-driven brand storytelling.
+🛠️
+In Progress: Property Management System
+Client: Internal Development Sector: Real Estate Tech Overview: A SaaS-based property management system designed to simplify rental operations for landlords, caretakers, and agents. Core features include tenant tracking, rent collection, service ticketing, and role-based dashboards. Currently in active development phase.
+💬 Want to Build With Us?
+If you’re looking to elevate your digital presence or build a custom solution for your business, we’re ready to bring your vision to life.
+👉 Contact us today to get started.
+Website Developed
+● https://gtc.co.ke/
+● https://www.powerpro.app/
+● https://soffabulaus.co.ke/
+● https://steadfastacademy.co.ke/
+● https://empowerisingresilience.org/
+● https://www.hyperwave.co.ke/
+● https://www.mygreatnairobi.co.ke/
+
+TechNiaje’s Services:
+
+* Custom Software Development
+* Website Design & Development
+* Mobile Application Development
+* Property Management Systems
+* Enterprise Systems (ERP/CRM)
+* AI-Powered Automation Tools
+* Cloud Solutions & Hosting
+* IT Support & Maintenance
+* E-Commerce & Digital Payment Integration
+* Data Analytics & Reporting Systems

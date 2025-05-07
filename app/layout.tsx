@@ -1,0 +1,27 @@
+import type { Metadata } from "next";
+import { Inter } from "next/font/google";
+import "./globals.css";
+import NavHeader from "./components/NavHeader";
+
+const inter = Inter({ subsets: ["latin"] });
+
+export const metadata: Metadata = {
+  title: "TechNiaje",
+  description:
+    "Building innovative digital solutions for businesses across Africa",
+};
+
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  return (
+    <html lang="en">
+      <body className={inter.className}>
+        <NavHeader />
+        {children}
+      </body>
+    </html>
+  );
+}
