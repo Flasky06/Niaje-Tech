@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <footer className="bg-gray-900 text-white py-12">
+    <footer className="bg-gradient-to-b from-blue-900 to-blue-800 text-white py-8">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
@@ -45,7 +45,7 @@ export default function Footer() {
             <p className="text-gray-400">Nairobi, Kenya</p>
           </div>
         </div>
-        <div className="mt-8 pt-8 border-t border-gray-800 text-center text-gray-400">
+        <div className="mt-4 pt-4 border-t border-white/10 text-center text-gray-400">
           <p>&copy; 2024 TechNiaje. All rights reserved.</p>
         </div>
       </div>

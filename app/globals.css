@@ -3,11 +3,17 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --primary: #00697b;
+  --primary-light: #00879c;
+  --primary-dark: #004d5b;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  --color-primary: var(--primary);
+  --color-primary-light: var(--primary-light);
+  --color-primary-dark: var(--primary-dark);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
@@ -20,7 +26,7 @@
 }
 
 body {
-  background: var(--background);
+  background: transparent;
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }

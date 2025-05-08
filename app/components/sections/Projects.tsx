@@ -1,6 +1,16 @@
+"use client";
+
 import Image from "next/image";
 
-const projects = [
+interface Project {
+  name: string;
+  client: string;
+  image: string;
+  link: string;
+  description: string;
+}
+
+const projects: Project[] = [
   {
     name: "GTC Website",
     client: "GTC",
@@ -69,17 +79,17 @@ const projects = [
 
 export default function Projects() {
   return (
-    <section className="bg-gradient-to-b from-blue-900 to-blue-800 text-white py-16">
+    <section className="bg-gradient-to-b from-blue-900 to-blue-800 text-white py-12">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="text-center mb-16">
+        <div className="text-center mb-12">
           <h2 className="text-4xl font-bold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-white to-blue-200">
-            Our Projects Portfolio
+            Our Latest Projects 
           </h2>
-          <p className="text-base text-gray-900 max-w-2xl mx-auto">
+          <p className="text-base text-white max-w-2xl mx-auto">
             Explore our diverse portfolio of digital solutions across various industries
           </p>
         </div>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
           {projects.map((project, index) => (
             <div key={index} className="bg-white rounded-lg overflow-hidden shadow-md hover:shadow-lg transition-all duration-200">
               <div className="relative h-40">
@@ -114,10 +124,13 @@ export default function Projects() {
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
                     </svg>
                   </a>
-                  <div className="flex items-center space-x-1">
-                    <span className="text-white">•</span>
-                    <span className="text-sm text-gray-900">Live Demo</span>
-                  </div>
+                  <button
+                    onClick={() => window.open(project.link, '_blank')}
+                    className="flex items-center space-x-1 px-3 py-1 rounded-md bg-blue-900 hover:bg-blue-700 transition-colors text-sm text-white"
+                  >
+                    <span>•</span>
+                    <span>Live Demo</span>
+                  </button>
                 </div>
               </div>
             </div>

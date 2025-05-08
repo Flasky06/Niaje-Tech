@@ -2,7 +2,7 @@ export default function Hero() {
   return (
     <section
       id="home"
-      className="relative h-[80vh] flex items-center justify-center overflow-hidden"
+      className="relative h-[60vh] flex items-center justify-center overflow-hidden"
     >
       {/* Background gradient */}
       <div className="absolute inset-0 bg-gradient-to-r from-blue-600 to-blue-800 opacity-90 z-0" />
